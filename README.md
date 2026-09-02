@@ -17,3 +17,6 @@ The Python script displays:
 - PyCharm
 - Git
 - GitHub
+## Status
+
+Week 1 environment setup completed successfully.
