@@ -1,0 +1,19 @@
+# CIT 105 - Week 1
+
+Student: Matthew Fernando Espinel Ricardo
+
+This repository contains my Week 1 Python assignment for CIT 105.
+
+## Program
+
+The Python script displays:
+- My full name
+- The current date
+- The Python version being used
+
+## Tools Used
+
+- Python 3.12
+- PyCharm
+- Git
+- GitHub
