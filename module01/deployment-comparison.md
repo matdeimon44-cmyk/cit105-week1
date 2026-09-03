@@ -45,3 +45,10 @@ The business needs an inventory and sales management system.
 **What works:** Azure can host the system in the cloud and provides flexible resources without requiring the business to maintain physical server hardware.
 
 **What breaks:** Azure creates an ongoing monthly cost and depends on internet access. The cost can also increase if more resources are used.
+## Final Recommendation
+
+I recommend using VirtualBox on a laptop for this small clothing store.
+
+The deciding requirement is cost. The business has a limited budget and does not need the system to run 24 hours a day or be accessible from outside the store. VirtualBox can run the inventory system using hardware the business may already own, which avoids the cost of a dedicated server or a recurring cloud bill.
+
+For this business, VirtualBox provides enough functionality while keeping the solution simple and affordable.
