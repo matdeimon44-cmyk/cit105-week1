@@ -20,3 +20,6 @@ The Python script displays:
 ## Status
 
 Week 1 environment setup completed successfully.
+## How to Run
+
+Open the project in PyCharm, make sure the Python 3.12 virtual environment is selected, and run `script.py`.
