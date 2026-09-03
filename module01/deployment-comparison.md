@@ -28,3 +28,20 @@ The business needs an inventory and sales management system.
 **What works:** Hyper-V can run the inventory system in a virtual machine and provides good performance using a dedicated Windows workstation.
 
 **What breaks:** The business needs a compatible Windows workstation that must remain available during business hours. Hardware failure would make the system unavailable.
+### 3. Proxmox Host
+
+**What works:** Proxmox can run the inventory system in a virtual machine and can manage multiple virtual machines from one server.
+
+**What breaks:** The business would need a dedicated server and someone with enough technical knowledge to maintain Proxmox. This may be more complex than the business needs.
+
+### 4. Physical PC
+
+**What works:** A physical PC is simple to understand and can run the inventory and sales system directly without virtualization.
+
+**What breaks:** If the PC has a hardware failure, the entire system becomes unavailable. It also offers less flexibility than using virtualization.
+
+### 5. Azure
+
+**What works:** Azure can host the system in the cloud and provides flexible resources without requiring the business to maintain physical server hardware.
+
+**What breaks:** Azure creates an ongoing monthly cost and depends on internet access. The cost can also increase if more resources are used.
